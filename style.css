@@ -4,7 +4,7 @@ img {
 }
 
 .header3 {
-  color: #005757;
+  color: darkolivegreen;
   margin-bottom: -5px;
   padding: 0;
 }
@@ -12,7 +12,7 @@ img {
 body {
   background-color: azure;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   max-width: 960px;
   margin: auto;
 }
@@ -28,18 +28,18 @@ ul {
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 4em;
   letter-spacing: 0.6em;
   padding-top: 1em;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.75em;
   font-weight:900;
 }
 
 h3 {
-  font-size: 1em;
+  font-size: 1.5em;
 }
 
 main {
